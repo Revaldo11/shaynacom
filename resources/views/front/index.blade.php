@@ -55,7 +55,7 @@
                             <div class="w-6 h-6 flex shrink-0 overflow-hidden">
                                 <img src="assets/icons/play-circle.svg" class="w-full h-full object-contain" alt="icon">
                             </div>
-                            <span>Watch Video</span>
+                            <span>Watch Videos</span>
                         </button>
                     </div>
                 @empty
